@@ -1,5 +1,6 @@
 git 입문하기
-테스트 진행
 
 git 변경내역 확인
+
+git 내부 repository에서 파일 수정
 작성자 : cys
